@@ -19,16 +19,16 @@ I enjoy building responsive, user-friendly web applications using React.js, Pyth
 My goal is to contribute to innovative projects that solve real-world problems and deliver great user experiences.
 ## Connect With Me
 <p align="left">
-<a href="[LinkedIn URL]">
+<a href="https://www.linkedin.com/in/riyasdeen07">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
 the-badge&logo=linkedin"/>
 </a>
-<a href="heartfelt-fairy-fa805b.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
+<a href="https://heartfelt-fairy-fa805b.netlify.app">
+ <img src="https://img.shields.io/badge/Portfolio-000000?style=for-
 the-badge&logo=vercel"/>
 </a>
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
+<a href="mailto:riyasdeen2907@gmail.com">
+ <img src="https://img.shields.io/badge/Email-D14836?style=for-the-
 badge&logo=gmail"/>
 </a>
 </p>
@@ -36,18 +36,23 @@ badge&logo=gmail"/>
 # Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+i=html,css,js,ts,react,nextjs,mysql,firebase,
+tailwind,bootstrap,git,github,vscode,postman,npm,vite"/>
 </p>
 ---
 # Featured Projects
 ## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and 
-experience.
-**Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
- Live Demo: [Portfolio URL]
- Repository: [GitHub Repository]
+Smart Gym Management Website
+
+Tech Stack
+React Python FastAPI MySQL Firebase
+
+Live Demo:
+https://heartfelt-tulumba-a727cc.netlify.app
+
+Repository:
+https://github.com/riyasdeen7/<repo-name>
+
 ---
 ## E-Commerce Website
 A responsive online shopping platform with authentication and cart 
@@ -79,7 +84,7 @@ r=true"/>
 # GitHub Streak
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+user=[riyasdeen7]&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 # Contribution Graph
@@ -109,7 +114,7 @@ w=10"/>
 - System Design
 - Backend Architecture
 ---
-# Goals for 2025
+# Goals for 2026
 - Contribute to Open Source
 - Build SaaS Applications
 - Master Full Stack Development
@@ -122,7 +127,7 @@ Cory House
 ---
 <p align="center">
 <img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
+username=[riyasdeen7]&label=Profile+Views&color=0e75b6&style=fla
 t"/>
 </p>
 ---
