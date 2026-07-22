@@ -12,18 +12,11 @@ wesome!" />
 </p>
 ---
 ## About Me
-- I'm a **Full Stack Web Developer** passionate about creating 
-responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud 
-Technologies**.
-- Open to collaborating on exciting web development and open-
-source projects.
-- Always exploring modern technologies and best development 
-practices.
-- Fun Fact: **I love solving coding challenges and building 
-useful applications.**
----
+
+I'm Riyas, a passionate Full Stack Web Developer with a B.Tech in Information Technology from Anna University.
+I have completed a Full Stack Web Development course and a Java Full Stack Development internship.
+I enjoy building responsive, user-friendly web applications using React.js, Python, FastAPI, MySQL, and Firebase.
+My goal is to contribute to innovative projects that solve real-world problems and deliver great user experiences.
 ## Connect With Me
 <p align="left">
 <a href="[LinkedIn URL]">
